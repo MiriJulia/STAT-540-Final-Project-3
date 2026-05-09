@@ -1,0 +1,48 @@
+---
+title: "Project Findings"
+author: "Miriam Delgado"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+
+This project was completed as part of STAT540 and focuses on applying statistical analysis techniques using R and RStudio. The project demonstrates the use of data exploration, visualization, and interpretation of statistical findings through reproducible workflows.
+
+# Objectives
+
+The main objectives of this project were to:
+
+- Explore and analyze a dataset using R
+- Apply statistical methods learned throughout the course
+- Generate meaningful visualizations
+- Interpret trends and relationships within the data
+- Practice reproducible research techniques using R Markdown
+
+# Methods
+
+The project workflow included:
+
+1. Importing and cleaning data
+2. Exploring variables and summary statistics
+3. Creating visualizations to identify patterns
+4. Performing statistical analysis
+5. Interpreting results and documenting findings
+
+# Tools and Technologies
+
+The following tools were used throughout the project:
+
+- R Programming Language
+- RStudio
+- R Markdown
+- Git
+- GitHub
+
+# Results
+
+The analysis provided useful insights into the dataset and demonstrated the ability to organize, analyze, and communicate statistical findings effectively. Visualizations and statistical summaries were used to support conclusions derived from the data.
+
+# Conclusion
+
+This project reinforced important concepts related to data analysis, reproducibility, and statistical reasoning. It also demonstrated the value of version control and project organization using Git and GitHub.
